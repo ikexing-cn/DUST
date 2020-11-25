@@ -1,0 +1,28 @@
+#customoregen 1.12 Config Options
+#Thu Oct 22 19:06:56 CST 2020
+oreFreq=1.0
+oreSize=1.0
+debugMode=false
+advOptions=false
+flatBedrock=true
+spruShown=false
+enableVanilla=true
+cleanUpVanilla=true
+vnlaClayDist=Vanilla
+vnlaCoalDist=none
+vnlaIronDist=none
+vnlaMountainIronDist=none
+vnlaGoldDist=none
+vnlaMountainGoldDist=none
+vnlaMesaGoldDist=none
+vnlaRedstoneDist=none
+vnlaMountainRedstoneDist=none
+vnlaDiamondDist=none
+vnlaLapisLazuliDist=none
+vnlaMountainLapisLazuliDist=none
+vnlaEmeraldDist=none
+vnlaNetherQuartzDist=none
+enableTinkersConstruct=true
+cleanUpTinkersConstruct=true
+ticoCobaltDist=none
+ticoArditeDist=none

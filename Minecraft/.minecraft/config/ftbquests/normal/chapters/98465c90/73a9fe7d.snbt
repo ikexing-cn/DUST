@@ -1,0 +1,20 @@
+{
+	x: 0.0d,
+	y: 2.0d,
+	text: [
+		"原版的感知工具已被禁用……",
+		"如若需要更多的恶魔物质，务必考虑这个"
+	],
+	dependencies: [
+		"c9f2623e",
+		"03685ab6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "1679225c",
+		type: "item",
+		items: [{
+			item: "tconevo:metal 1 30"
+		}]
+	}]
+}

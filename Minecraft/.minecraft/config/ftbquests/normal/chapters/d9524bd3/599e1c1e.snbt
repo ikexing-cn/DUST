@@ -1,0 +1,16 @@
+{
+	title: "获得“黯淡黑莲花”",
+	x: 8.0d,
+	y: 1.0d,
+	dependencies: [
+		"3ef15c2f"
+	],
+	hide: true,
+	tasks: [{
+		uid: "6d86abad",
+		type: "item",
+		items: [{
+			item: "contenttweaker:manablack_lotus"
+		}]
+	}]
+}

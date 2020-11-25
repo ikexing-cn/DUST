@@ -1,0 +1,17 @@
+tile.contenttweaker.stone_magic.name=魔力石
+tile.contenttweaker.cobblestone_magic.name=魔力圆石
+tile.contenttweaker.blank_ore.name=未填充的矿石
+
+item.contenttweaker.manablack_lotus.name=黯淡的黑莲花
+item.contenttweaker.whitenether_wart.name=镶边地狱疣
+item.contenttweaker.blood_symbolize.name=血之象征
+item.contenttweaker.flint_shard.name=燧石碎片
+item.contenttweaker.crude_knife.name=粗制小刀
+item.contenttweaker.grass_string.name=草绳
+
+fluid.gemlapis=熔融青金石
+fluid.blackiron=熔融黑铁
+fluid.charcoal=熔融木炭
+fluid.modularium=熔融模块化合金
+fluid.mana=元始魔力
+fluid.bloods=源血

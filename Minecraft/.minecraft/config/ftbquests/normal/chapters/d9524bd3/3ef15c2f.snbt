@@ -1,0 +1,23 @@
+{
+	title: "获得“植魔两件套”",
+	x: 9.0d,
+	y: 0.0d,
+	dependencies: [
+		"1b684727"
+	],
+	hide: true,
+	tasks: [{
+		uid: "931239e4",
+		type: "item",
+		items: [{
+			item: "botania:spreader"
+		}]
+	},
+	{
+		uid: "11263ce2",
+		type: "item",
+		items: [{
+			item: "botania:pool 1 2"
+		}]
+	}]
+}

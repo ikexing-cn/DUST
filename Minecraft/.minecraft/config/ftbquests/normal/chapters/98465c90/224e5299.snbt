@@ -1,0 +1,20 @@
+{
+	title: "矿石加工机",
+	disable_toast: true,
+	x: -4.0d,
+	y: -2.5d,
+	dependencies: [
+		"d9524bd3"
+	],
+	hide: true,
+	tasks: [{
+		uid: "855e83b8",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:ore_processing"
+			}
+		}]
+	}]
+}

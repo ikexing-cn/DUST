@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	dependencies: [
+		"00c33073"
+	],
+	hide: true,
+	tasks: [{
+		uid: "8e8a2d10",
+		type: "item",
+		items: [{
+			item: "contenttweaker:bloodsymbolize"
+		}]
+	}]
+}

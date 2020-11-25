@@ -1,0 +1,26 @@
+{
+	title: "获得“水绣球”",
+	x: 10.0d,
+	y: -1.0d,
+	dependencies: [
+		"3ef15c2f"
+	],
+	hide: true,
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "5e0649f6",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "hydroangeas"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "f5254030",
+		type: "item",
+		title: "不可多得",
+		item: "ceramics:clay_bucket"
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "模块化离心机",
+	disable_toast: true,
+	x: -5.0d,
+	y: -2.5d,
+	dependencies: [
+		"d9524bd3"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c3e6d538",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:modular_centrifuge"
+			}
+		}]
+	}]
+}

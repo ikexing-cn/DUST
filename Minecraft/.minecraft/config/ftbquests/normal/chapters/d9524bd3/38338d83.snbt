@@ -1,0 +1,29 @@
+{
+	title: "制作“焦黑熔炉”",
+	disable_toast: true,
+	x: 3.5d,
+	y: 2.5d,
+	dependencies: [
+		"7ea743c8"
+	],
+	tasks: [{
+		uid: "f7b21c39",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared_furnace_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "05840838",
+		type: "item",
+		item: {
+			id: "ceramics:clay_bucket",
+			tag: {
+				fluids: {
+					FluidName: "lava",
+					Amount: 1000
+				}
+			}
+		}
+	}]
+}

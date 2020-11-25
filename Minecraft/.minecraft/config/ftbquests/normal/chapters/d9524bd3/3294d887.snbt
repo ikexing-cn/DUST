@@ -1,0 +1,23 @@
+{
+	title: "制作“压榨木盆和蒸发皿”",
+	x: 3.5d,
+	y: -1.0d,
+	dependencies: [
+		"55c49e96"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5ed081a7",
+		type: "item",
+		items: [{
+			item: "rustic:crushing_tub"
+		}]
+	},
+	{
+		uid: "9cc38c68",
+		type: "item",
+		items: [{
+			item: "rustic:evaporating_basin"
+		}]
+	}]
+}

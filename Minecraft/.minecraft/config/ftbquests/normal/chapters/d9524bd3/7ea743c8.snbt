@@ -1,0 +1,29 @@
+{
+	title: "制作“冶炼炉”",
+	x: 3.5d,
+	y: 1.0d,
+	dependencies: [
+		"fd141120"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d5b428e0",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "21eeb1c1",
+		type: "item",
+		item: {
+			id: "ceramics:clay_bucket",
+			tag: {
+				fluids: {
+					FluidName: "lava",
+					Amount: 1000
+				}
+			}
+		}
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	x: 2.5d,
+	y: 2.0d,
+	dependencies: [
+		"e3780371"
+	],
+	hide: true,
+	tasks: [{
+		uid: "918bc861",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:pressure_chamber_wall"
+		}],
+		count: 9L
+	},
+	{
+		uid: "058b288f",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:liquid_compressor"
+		},
+		{
+			item: "pneumaticcraft:air_compressor"
+		}]
+	}]
+}

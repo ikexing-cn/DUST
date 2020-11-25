@@ -1,0 +1,23 @@
+{
+	title: "制作“陶瓷冶炼炉”",
+	x: 1.5d,
+	y: 1.0d,
+	dependencies: [
+		"c39c787f"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c3711f17",
+		type: "item",
+		items: [{
+			item: "tcomplement:porcelain_melter"
+		}]
+	},
+	{
+		uid: "82d06afc",
+		type: "item",
+		items: [{
+			item: "tcomplement:porcelain_melter 1 8"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	title: "制作“泰拉钢”",
+	x: 15.0d,
+	y: 0.0d,
+	dependencies: [
+		"bfcf2f43"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d0c6384d",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 4"
+		}]
+	}]
+}

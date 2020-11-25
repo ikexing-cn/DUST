@@ -1,0 +1,18 @@
+{
+	title: "获得“工作台”",
+	x: 0.0d,
+	y: 0.0d,
+	description: "玩此整合包前请务必放弃你记住过的所有合成，麻烦请多看JEI！！！！！",
+	text: [
+		"如果JEI没有合成表或者搜索不到某种东西， 在此基础上你的记忆没有出错的话，大概率就被我（作者）ban掉了"
+	],
+	hide: true,
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "d232ccae",
+		type: "item",
+		items: [{
+			item: "minecraft:crafting_table"
+		}]
+	}]
+}

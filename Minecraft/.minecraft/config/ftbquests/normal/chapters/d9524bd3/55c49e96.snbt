@@ -1,0 +1,30 @@
+{
+	title: "找到“铁树”",
+	x: 1.5d,
+	y: -1.0d,
+	dependencies: [
+		"c39c787f"
+	],
+	hide: true,
+	tasks: [{
+		uid: "39a2bb1b",
+		type: "item",
+		items: [{
+			item: "rustic:log 1 1"
+		}]
+	},
+	{
+		uid: "62a90260",
+		type: "item",
+		items: [{
+			item: "rustic:sapling 1 1"
+		}]
+	},
+	{
+		uid: "a9b42ae2",
+		type: "item",
+		items: [{
+			item: "rustic:ironberries"
+		}]
+	}]
+}

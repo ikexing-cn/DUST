@@ -1,0 +1,17 @@
+{
+	title: "获得“炼金催化剂”",
+	x: 11.0d,
+	y: 0.0d,
+	description: "提前制作是有好处的……真的。",
+	dependencies: [
+		"3ef15c2f"
+	],
+	hide: true,
+	tasks: [{
+		uid: "3e0f8bfa",
+		type: "item",
+		items: [{
+			item: "botania:alchemycatalyst"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	title: "获得“炼造催化器”",
+	x: 12.0d,
+	y: -1.0d,
+	dependencies: [
+		"521bfee3"
+	],
+	hide: true,
+	tasks: [{
+		uid: "2ecb7074",
+		type: "item",
+		items: [{
+			item: "botania:conjurationcatalyst"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	title: "建造“精灵门”",
+	x: 17.0d,
+	y: 0.0d,
+	dependencies: [
+		"0fda5827"
+	],
+	hide: true,
+	tasks: [{
+		uid: "fb495fc3",
+		type: "item",
+		items: [{
+			item: "botania:alfheimportal"
+		}]
+	}]
+}

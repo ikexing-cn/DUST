@@ -1,0 +1,20 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	text: [
+		"没有发电设备吗？",
+		"那为何不尝试在轻型工程块上放置一个的拉杆呢 毕竟RedFlux"
+	],
+	dependencies: [
+		"e3780371"
+	],
+	hide: true,
+	tasks: [{
+		uid: "58f1b150",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:mold"
+		}],
+		ignore_nbt: 1b
+	}]
+}

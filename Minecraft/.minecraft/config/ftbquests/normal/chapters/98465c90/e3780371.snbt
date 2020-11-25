@@ -1,0 +1,15 @@
+{
+	x: 2.5d,
+	y: 0.5d,
+	dependencies: [
+		"411d9510"
+	],
+	hide: true,
+	tasks: [{
+		uid: "fcde25f1",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:ingot_iron_compressed"
+		}]
+	}]
+}

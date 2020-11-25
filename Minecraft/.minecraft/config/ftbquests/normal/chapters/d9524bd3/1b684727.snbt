@@ -1,0 +1,19 @@
+{
+	title: "获得“白雏菊”",
+	x: 7.0d,
+	y: 0.0d,
+	dependencies: [
+		"5c2bede0"
+	],
+	hide: true,
+	tasks: [{
+		uid: "fd8e4883",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "puredaisy"
+			}
+		}]
+	}]
+}

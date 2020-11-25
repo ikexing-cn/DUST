@@ -1,0 +1,29 @@
+{
+	title: "制作 “凝矿兰”",
+	x: 19.0d,
+	y: 0.0d,
+	description: "除了铁矿石之外，其他矿石都得先获得至少一次才能通过凝矿兰转。",
+	dependencies: [
+		"00c33073"
+	],
+	hide: true,
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "8df3ac16",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "orechid"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "8ed7d768",
+		type: "gamestage",
+		title: "解锁“地狱”",
+		team_reward: true,
+		auto: "disabled",
+		stage: "nether"
+	}]
+}

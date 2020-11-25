@@ -1,0 +1,22 @@
+{
+	x: 0.0d,
+	y: 3.5d,
+	dependencies: [
+		"73a9fe7d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d3efd66a",
+		type: "item",
+		items: [{
+			item: "bloodmagic:altar"
+		}]
+	},
+	{
+		uid: "cb245af9",
+		type: "item",
+		items: [{
+			item: "bloodmagic:incense_altar"
+		}]
+	}]
+}

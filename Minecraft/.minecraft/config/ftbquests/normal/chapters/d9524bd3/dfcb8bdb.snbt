@@ -1,0 +1,25 @@
+{
+	x: 3.5d,
+	y: -2.5d,
+	text: [
+		"盆栽管理器可以自动收获一定范围内活石盆栽物品到附近相邻的容器……切勿搞丢，无法制作",
+		"盆栽管理器收到魔力光束会大幅度增快附近盆栽的生长速度",
+		""
+	],
+	dependencies: [
+		"3294d887"
+	],
+	hide: true,
+	tasks: [{
+		uid: "2865924c",
+		type: "item",
+		items: [{
+			item: "botanicbonsai:botanic_bonsai_pot"
+		}]
+	}],
+	rewards: [{
+		uid: "920d03be",
+		type: "item",
+		item: "botanicbonsai:bonsai_pot_manager"
+	}]
+}

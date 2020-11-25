@@ -1,0 +1,28 @@
+{
+	title: "获得“花药台”",
+	x: 5.0d,
+	y: 0.0d,
+	text: [
+		"每次每次的植魔开局都需要收集十六种花瓣",
+		"我想你肯定已经厌烦于此了吧."
+	],
+	dependencies: [
+		"7ea743c8",
+		"3294d887"
+	],
+	hide: true,
+	tasks: [{
+		uid: "4864f255",
+		type: "item",
+		items: [{
+			item: "botania:altar"
+		}]
+	}],
+	rewards: [{
+		uid: "36ee59d0",
+		type: "item",
+		team_reward: true,
+		item: "botania:fertilizer",
+		count: 16
+	}]
+}

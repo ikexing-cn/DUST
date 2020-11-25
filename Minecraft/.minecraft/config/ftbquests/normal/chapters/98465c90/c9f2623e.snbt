@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 1.0d,
+	dependencies: [
+		"22de5d41"
+	],
+	hide: true,
+	tasks: [{
+		uid: "1806cc43",
+		type: "item",
+		items: [{
+			item: "bloodmagic:soul_snare"
+		}],
+		count: 6L
+	}]
+}

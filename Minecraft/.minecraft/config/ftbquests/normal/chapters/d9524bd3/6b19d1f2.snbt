@@ -1,0 +1,25 @@
+{
+	title: "获得“火红莲”",
+	x: 11.0d,
+	y: -2.0d,
+	dependencies: [
+		"8daa2328"
+	],
+	hide: true,
+	tasks: [{
+		uid: "22c87585",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "endoflame"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "1045871d",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:coal_block"
+	}]
+}
