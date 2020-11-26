@@ -119,8 +119,8 @@ val shapedRecipes as IIngredient[][][IItemStack] = { // 有序合成表添加
     ],
     <modulardiversity:blockmanainputhatch> : [
         [<modularmachinery:itemmodularium> , <botania:tinyplanetblock> , <modularmachinery:itemmodularium>],
-        [<ore:gemLapis> , <modularmachinery:blockcasing> , <ore:gemLapis>],
-        [<modularmachinery:itemmodularium> , <ore:gemLapis> , <modularmachinery:itemmodularium>]
+        [<ore:ingotManasteel> , <modularmachinery:blockcasing> , <ore:ingotManasteel>],
+        [<modularmachinery:itemmodularium> , <ore:ingotManasteel> , <modularmachinery:itemmodularium>]
     ],
     <bloodmagic:arcane_ashes> : [
         [null, <botania:dye>, null],
@@ -222,7 +222,8 @@ val removeItems as IItemStack[] = [ // 删物品合成
     <minecraft:wooden_pickaxe>,
     <minecraft:wooden_axe>,
     <minecraft:wooden_sword>,
-    <minecraft:wooden_hoe>
+    <minecraft:wooden_hoe>,
+    <modularmachinery:blockcasing>
 
 ];
 
@@ -268,7 +269,6 @@ val hideJEI as IItemStack[] = [
     <extrautils2:glasscutter>,
     <extrautils2:grocket:6>,
     <extrautils2:analogcrafter>,
-    <extrautils2:machine>,
     <extrautils2:machine>.withTag({Type: "extrautils2:crusher"}),
     <extrautils2:machine>.withTag({Type: "extrautils2:furnace"}),
     <extrautils2:machine>.withTag({Type: "extrautils2:enchanter"}),

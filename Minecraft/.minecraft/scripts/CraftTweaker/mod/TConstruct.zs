@@ -20,6 +20,8 @@ Casting.addBasinRecipe(<tconstruct:seared_tank:2>,<tcomplement:porcelain_tank:2>
 Casting.addBasinRecipe(<tconstruct:channel>,<ceramics:channel>,<liquid:stone>,144,true,20);
 Casting.addBasinRecipe(<tconstruct:faucet>,<ceramics:faucet>,<liquid:stone>,144,true,20);
 
+Casting.addBasinRecipe(<modularmachinery:blockcasing>,<extrautils2:machine>,<liquid:modularium>,288,true,40);
+
 Casting.addTableRecipe(<extendedcrafting:material>,<tconstruct:cast_custom>,<liquid:blackiron>,144,false,40);
 Casting.addTableRecipe(<minecraft:coal:1>,<tconstruct:cast_custom>,<liquid:charcoal>,144,false,40);
 Casting.addTableRecipe(<minecraft:dye:4>,<tconstruct:cast_custom>,<liquid:gemlapis>,144,false,40);

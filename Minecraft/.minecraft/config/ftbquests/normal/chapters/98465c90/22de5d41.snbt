@@ -9,7 +9,7 @@
 		uid: "8e8a2d10",
 		type: "item",
 		items: [{
-			item: "contenttweaker:bloodsymbolize"
+			item: "contenttweaker:blood_symbolize"
 		}]
 	}]
 }

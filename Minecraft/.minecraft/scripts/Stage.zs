@@ -16,3 +16,4 @@ OreStages.addReplacement("ore_redstone", <ore:oreRedstone>, <contenttweaker:ston
 
 //Dim
 mods.DimensionStages.addDimensionStage("nether", -1);
+mods.DimensionStages.addDimensionStage("twilight", 7);
