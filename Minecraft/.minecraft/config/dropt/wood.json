@@ -1,0 +1,32 @@
+{
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "minecraft:log:*",
+			"minecraft:log2:*",
+			"twilightforest:magic_log:*",
+			"integrateddynamics:menril_log_filled:*",
+			"integrateddynamics:menril_log:*",
+			"naturesaura:ancient_log:*",
+			"naturesaura:ancient_bark:*",
+			"rustic:log:*",
+			"quark:bark:*",
+			"extrautils2:ironwood_log:*",
+			"twilightforest:twilight_log:*",
+			"techreborn:rubber_log:*"
+          ]
+        },
+        "harvester": {
+          "type": "PLAYER",
+          "heldItemMainHand": {
+            "type": "BLACKLIST",
+            "harvestLevel": "axe;0;-1"
+          }
+        }
+      },
+      "drops": [{}]
+    }
+  ]
+}

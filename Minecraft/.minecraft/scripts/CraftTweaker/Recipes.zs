@@ -217,7 +217,12 @@ val removeItems as IItemStack[] = [ // 删物品合成
     <pneumaticcraft:pressure_chamber_glass>,
     <pneumaticcraft:pressure_chamber_valve>,
     <extrautils2:drum:3>,
-    <extrautils2:drum:2>
+    <extrautils2:drum:2>,
+    <minecraft:wooden_hoe>,
+    <minecraft:wooden_pickaxe>,
+    <minecraft:wooden_axe>,
+    <minecraft:wooden_sword>,
+    <minecraft:wooden_hoe>
 
 ];
 
@@ -308,10 +313,10 @@ val hideJEI as IItemStack[] = [
     <tcomplement:alloy_tank>,
     <tinker_io:stirling_engine>,
     <tinker_io:solidfuel>,
-
     //actu
     <actuallyadditions:block_grinder>,
     <actuallyadditions:block_grinder_double>,
+    <actuallyadditions:wooden_paxel>,
     //jaopca
     <jaopca:item_nuggetcoal>,
     //natu

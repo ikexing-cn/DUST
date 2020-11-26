@@ -47,7 +47,7 @@ events.onPlayerInteract(function(event as PlayerInteractEvent){
     val player as IPlayer = event.player;
     var c = server.commandManager as ICommandManager;
     val obsidian = "minecraft:obsidian";
-    val stone = "minecraft:stone";
+    val stone = "stone";
     var CurrentItem as IItemStack = player.currentItem;
 
     if(block has obsidian){
@@ -66,9 +66,9 @@ events.onPlayerInteract(function(event as PlayerInteractEvent){
         }
     }
 });
-//打草掉落
+
 events.onBlockHarvestDrops(function(event as BlockHarvestDropsEvent){
-    val block = event.block;
+    val block as IBlock = event.block;
     val player as IPlayer = event.player;
     val grass = "minecraft:tallgrass";
 
